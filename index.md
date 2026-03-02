@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: default
 title: Bennybre
 author: Bennybre
 webmaster: git Bennybre
